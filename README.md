@@ -23,6 +23,7 @@ Repositorio con las soluciones de agunos de los problemas de [Acepta el Reto](ht
 - [605: Ordenando el armario](https://aceptaelreto.com/problem/statement.php?id=605).
 - [606: El precio de la gasolina](https://aceptaelreto.com/problem/statement.php?id=606).
 - [615: La pulga](https://aceptaelreto.com/problem/statement.php?id=615).
+- [620: Juegos en cintas](https://aceptaelreto.com/problem/statement.php?id=620).
 - [635: Cinquecento](https://aceptaelreto.com/problem/statement.php?id=635).
 - [637: El telegrama más corto](https://aceptaelreto.com/problem/statement.php?id=637).
 - [643: Kilos de basura](https://aceptaelreto.com/problem/statement.php?id=643).
