@@ -1,4 +1,4 @@
-venv
+*venv
 .vscode
 *.out
 __pycache__

@@ -12,6 +12,7 @@ Repositorio con las soluciones de agunos de los problemas de [Acepta el Reto](ht
 - [397: ¿Es múltiplo de 3?](https://aceptaelreto.com/problem/statement.php?id=397).
 - [417: Nana al bebé de papá y mamá](https://aceptaelreto.com/problem/statement.php?id=417).
 - [419: Telesillas](https://aceptaelreto.com/problem/statement.php?id=419).
+- [425: Aibofobia](https://aceptaelreto.com/problem/statement.php?id=425).
 - [433: Racimos de uvas](https://aceptaelreto.com/problem/statement.php?id=433).
 - [444: La digestión de las serpientes](https://aceptaelreto.com/problem/statement.php?id=444).
 - [445: Semana de la Informática](https://aceptaelreto.com/problem/statement.php?id=445).
