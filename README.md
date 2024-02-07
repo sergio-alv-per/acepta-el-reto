@@ -30,6 +30,7 @@ Repositorio con las soluciones de agunos de los problemas de [Acepta el Reto](ht
 - [637: El telegrama más corto](https://aceptaelreto.com/problem/statement.php?id=637).
 - [643: Kilos de basura](https://aceptaelreto.com/problem/statement.php?id=643).
 - [661: Los tesoros de la tumba de Tutankamón](https://aceptaelreto.com/problem/statement.php?id=661).
+- [669: Lámpara de pared](https://aceptaelreto.com/problem/statement.php?id=669).
 - [687: Anillos de plástico](https://aceptaelreto.com/problem/statement.php?id=687).
 - [700: Las series más vistas](https://aceptaelreto.com/problem/statement.php?id=700).
 - [703: ¡Maldito odómetro!](https://aceptaelreto.com/problem/statement.php?id=703).
