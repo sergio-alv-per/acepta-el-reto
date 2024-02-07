@@ -8,6 +8,7 @@ Repositorio con las soluciones de agunos de los problemas de [Acepta el Reto](ht
 - [119: Escudos del ejército romano](https://aceptaelreto.com/problem/statement.php?id=119).
 - [148: Nochevieja](https://aceptaelreto.com/problem/statement.php?id=148).
 - [153: Reloj a través del espejo](https://aceptaelreto.com/problem/statement.php?id=153).
+- [158: Los saltos de Mario](https://aceptaelreto.com/problem/statement.php?id=158).
 - [215: De-reconstrucción](https://aceptaelreto.com/problem/statement.php?id=215).
 - [285: Las vacas pensantes](https://aceptaelreto.com/problem/statement.php?id=285).
 - [367: Repartiendo regalos en tu calle](https://aceptaelreto.com/problem/statement.php?id=367).
