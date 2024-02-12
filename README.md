@@ -3,6 +3,7 @@ Repositorio con las soluciones de agunos de los problemas de [Acepta el Reto](ht
 ## Problemas resueltos
 - [100: Constante de Kaprekar](https://aceptaelreto.com/problem/statement.php?id=100).
 - [101: Cuadrados diabólicos y esotéricos](https://aceptaelreto.com/problem/statement.php?id=101).
+- [103: Problemas de Herencia](https://aceptaelreto.com/problem/statement.php?id=103).
 - [104: Móviles](https://aceptaelreto.com/problem/statement.php?id=104).
 - [110: Estrofas](https://aceptaelreto.com/problem/statement.php?id=110).
 - [119: Escudos del ejército romano](https://aceptaelreto.com/problem/statement.php?id=119).
