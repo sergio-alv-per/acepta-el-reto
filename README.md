@@ -15,6 +15,7 @@ Repositorio con las soluciones de agunos de los problemas de [Acepta el Reto](ht
 - [215: De-reconstrucción](https://aceptaelreto.com/problem/statement.php?id=215).
 - [285: Las vacas pensantes](https://aceptaelreto.com/problem/statement.php?id=285).
 - [367: Repartiendo regalos en tu calle](https://aceptaelreto.com/problem/statement.php?id=367).
+- [379: Creciente por los pelos](https://aceptaelreto.com/problem/statement.php?id=379).
 - [397: ¿Es múltiplo de 3?](https://aceptaelreto.com/problem/statement.php?id=397).
 - [417: Nana al bebé de papá y mamá](https://aceptaelreto.com/problem/statement.php?id=417).
 - [419: Telesillas](https://aceptaelreto.com/problem/statement.php?id=419).
