@@ -8,6 +8,7 @@ Repositorio con las soluciones de agunos de los problemas de [Acepta el Reto](ht
 - [110: Estrofas](https://aceptaelreto.com/problem/statement.php?id=110).
 - [119: Escudos del ejército romano](https://aceptaelreto.com/problem/statement.php?id=119).
 - [127: Una, dola, tela, catola...](https://aceptaelreto.com/problem/statement.php?id=127).
+- [133: Prueba del nueve en base N](https://aceptaelreto.com/problem/statement.php?id=133).
 - [141: Paréntesis balanceados](https://aceptaelreto.com/problem/statement.php?id=141).
 - [148: Nochevieja](https://aceptaelreto.com/problem/statement.php?id=148).
 - [153: Reloj a través del espejo](https://aceptaelreto.com/problem/statement.php?id=153).
