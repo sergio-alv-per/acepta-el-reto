@@ -14,6 +14,7 @@ Repositorio con las soluciones de agunos de los problemas de [Acepta el Reto](ht
 - [153: Reloj a través del espejo](https://aceptaelreto.com/problem/statement.php?id=153).
 - [158: Los saltos de Mario](https://aceptaelreto.com/problem/statement.php?id=158).
 - [215: De-reconstrucción](https://aceptaelreto.com/problem/statement.php?id=215).
+- [259: ¿Cuántos números capicúa?](https://aceptaelreto.com/problem/statement.php?id=259).
 - [285: Las vacas pensantes](https://aceptaelreto.com/problem/statement.php?id=285).
 - [367: Repartiendo regalos en tu calle](https://aceptaelreto.com/problem/statement.php?id=367).
 - [379: Creciente por los pelos](https://aceptaelreto.com/problem/statement.php?id=379).
